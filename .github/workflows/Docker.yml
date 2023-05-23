@@ -22,4 +22,3 @@ jobs:
         username: derdaluz
     # Password or personal access token used to log against the Docker registry
         password: ${{ secrets.PASSWORD_DOCKER_HUB }}
-		
